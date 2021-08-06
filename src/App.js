@@ -24,7 +24,7 @@ const dummy_data = [
     {
         key: "3",
         Id: "3",
-        Name: "ram",
+        Name: "ram1",
         Surname: "Ramavani",
         Email: "rr123@gmail.com",
         Gender: "male"
